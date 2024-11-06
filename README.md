@@ -1,1 +1,1 @@
-BTK Akademide Ömer Faruk Çolakoğlu hocamızın düzenlediği "Uygulamalarla SQL öğreniyorum" eğitiminde öğrendiğim ve ödevlerini yaptığım projelerin bulunduğu yerdir. NOT: BTKAKADEMİ Uygulamalarla SQL öğreniyorum sertifikasına sahibim.
+BTK Akademide Ömer Faruk Çolakoğlu hocamızın düzenlediği "Uygulamalarla SQL öğreniyorum" eğitiminde öğrendiğim ve ödevlerini yaptığım projelerin bulunduğu yerdir. NOT: BTK Akademi "Uygulamalarla SQL öğreniyorum" sertifikasına sahibim.
